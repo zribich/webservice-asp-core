@@ -130,3 +130,8 @@ C:\Users\MSI\source\repos\WebApi\WebApplication11\obj\Debug\net5.0\web_api.dll
 C:\Users\MSI\source\repos\WebApi\WebApplication11\obj\Debug\net5.0\ref\web_api.dll
 C:\Users\MSI\source\repos\WebApi\WebApplication11\obj\Debug\net5.0\web_api.pdb
 C:\Users\MSI\source\repos\WebApi\WebApplication11\obj\Debug\net5.0\web_api.genruntimeconfig.cache
+C:\Users\MSI\source\repos\WebApi\WebApplication11\bin\Debug\net5.0\System.Web.Cors.dll
+C:\Users\MSI\source\repos\WebApi\WebApplication11\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\MSI\source\repos\WebApi\WebApplication11\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\MSI\source\repos\WebApi\WebApplication11\bin\Debug\net5.0\System.Web.Http.Cors.dll
+C:\Users\MSI\source\repos\WebApi\WebApplication11\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
